@@ -169,7 +169,7 @@ export const education = [
   {
     id: 1,
     img: "https://elevationfurnitures.com/images/clients/5.png",
-    school: "Avadh Collegiate, Dankuni",
+    school: "Avadh Collegiate, Lucknow",
     date: "Apr 2019 - Apr 2020",
     grade: "72.6%",
     desc: "I completed my class 12 high school education at Avadh Collegiate, Lucknow, where I studied Science with Computer Science.",
@@ -178,7 +178,7 @@ export const education = [
   {
     id: 2,
     img: "https://media.edusanjal.com/logos/SOS.png.200x200_q85.png",
-    school: "SOS Hermann Gmeiner, Dankuni",
+    school: "SOS Hermann Gmeiner, Varanasi",
     date: "Apr 2017 - Apr 2018",
     grade: "78.8%",
     desc: "I completed my class 10 education at SOS Hermann Gmeiner School, Varanasi, where I studied Science with Computer.",
