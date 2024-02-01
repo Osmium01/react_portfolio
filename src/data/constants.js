@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Aman Singh",
+  name: "Aman Singh / Osmium01",
   roles: [
     "Full Stack Developer",
     "Software Developer",
